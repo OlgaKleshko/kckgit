@@ -1,0 +1,2 @@
+# kckgit
+Zadanie6

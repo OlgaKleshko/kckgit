@@ -1,0 +1,32 @@
+body{
+  background: url('background.jpg') no-repeat;
+  background-size:cover;
+  background-color: #cccccc;
+  width: inherit;
+  border: 5px solid black;
+  padding: 15px;
+  margin: 0;
+  }
+
+  h1, h2{
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  p{
+      font-size: 15px;
+      font-family: Arial, Verdana;
+      text-align: justify;
+    }
+
+  div.a{
+    width: auto;
+    padding: inherit;
+    margin: auto;
+  }
+
+  div.b{
+    width: auto;
+    padding: inherit;
+    margin: auto;
+  }
